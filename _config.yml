@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8453227696180445
+  lightness: 0.4963464571173585
+  rhythmicContrast: 0.8525342070636628
+  saturation: 0.1941866340263505
+cta: {}
+layout_spectrum: 0.20154281164026588
+name: sofia
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.6001614453714169
